@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Razafridi
 - 👀 I’m interested in computer programming , web developments , operating system development.
-- 🌱 I’m currently learning machine learning and web development
+- 🌱 I’m currently learning operating system development and web development
 
 
 <!---
