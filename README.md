@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Razafridi
-- 👀 I’m interested in computer programming , web developments , machine learning
+- 👀 I’m interested in computer programming , web developments , operating system development.
 - 🌱 I’m currently learning machine learning and web development
 
 
