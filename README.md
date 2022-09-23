@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Razafridi
-- 👀 I’m interested in computer programming , web developments , operating system development.
-- 🌱 I’m currently learning operating system development and web development
+- 👀 I’m interested in computer programming , web developments , app development.
+- 🌱 I’m currently learning app development and web development
+- ---- C,C++,Python, PHP,Javascript,HTML,CSS,Bootstrap,tailwindcss,fontawesome,nodejs,react,react native
 
 
 <!---
